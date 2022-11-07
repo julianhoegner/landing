@@ -1,0 +1,33 @@
+@import Url("https://fonts.googleapis.com/css2?family=Arimo&family=Merriweather:wght@700&display=swap");
+@import Url("components/container.css");
+@import Url("components/avatar.css");
+@import Url("components/button.css");
+@import Url("components/banner.css");
+@import Url("components/card.css");
+@import Url("components/cards.css");
+@import Url("components/company_logo.css");
+@import Url("components/list_inline.css");
+
+body {
+	font-family: 'Arimo', sans-serif;
+	font-size: 18px
+}
+h1,h2,h3 {
+	font-family: 'Merriweather', serif;
+	font-weight:  bold;
+}
+a{
+	text-decoration: none;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 70px;
+}
+
