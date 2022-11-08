@@ -5,6 +5,10 @@
 	top: 0;
 	bottom: 0;
 	background-color: #022c50;
+	font-family: 'Merriweather', serif;
+	font-weight:  bold;
+	font-size: 18px;
+	color: white;
 }
 
 .sidebar ul {
@@ -13,8 +17,4 @@
 }
 .li {
 	padding-left: 30px
-	font-family: 'Merriweather', serif;
-	font-weight:  bold;
-	font-size: 18px;
-	color: white;
 }
