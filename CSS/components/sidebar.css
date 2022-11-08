@@ -5,3 +5,8 @@
   top: 0;
   bottom: 0;
 }
+
+.sidebar ul {
+  list-style: none;
+	padding-left: 0px;
+}
