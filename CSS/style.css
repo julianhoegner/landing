@@ -7,6 +7,8 @@
 @import Url("components/cards.css");
 @import Url("components/company_logo.css");
 @import Url("components/list_inline.css");
+@import Url("components/page-content.css");
+@import Url("components/sidebar.css");
 
 body {
 	font-family: 'Arimo', sans-serif;
